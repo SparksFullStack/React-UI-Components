@@ -1,0 +1,11 @@
+.app {
+    height: 600px;
+    width: 450px;
+    border: 1px solid black;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.row_1 {
+    height: 21%;
+}
